@@ -4,6 +4,12 @@ const titles = ["미션 파서블", "미션 임파서블", "미션", "미션 임
 const ratings = [7.41, 7.03, 7.40, 7.20, 7.16];
 const years = [2021, 1996, 1986, 2015, 2025];
 
+
+
+(function init(){
+    console.log("나는 항수다,샬행 되었다");
+
+})();
 const gugudan =  dan => {
    
     for(let i=1;i<=9; i++){
