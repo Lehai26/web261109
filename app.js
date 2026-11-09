@@ -15,11 +15,6 @@ console.log("평균:", average(movies));
 
 
 
-
-
-
-
-
  function best (list) {
  let top = list[0];
  for(const m of list){
