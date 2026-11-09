@@ -9,7 +9,7 @@ const movies = [
 // 영화 한 편 = 객체 하나. 키 5개 : title, year, date, rating, poster
 
  { 
-    title: "인터스텔라", year: 2014, date: "2014-11-06",
+    title: "인터스텔라", year: 2015, date: "2014-11-06",
  rating: 8.4, poster: "/abc123.jpg" },
  // 위와 같은 모양으로 4편을 더 씁니다. 객체와 객체 사이에는 쉼표(,)
  
